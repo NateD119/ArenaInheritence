@@ -1,0 +1,2 @@
+# ArenaInheritence
+c++ inheritence
